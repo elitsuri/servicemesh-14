@@ -1,0 +1,18 @@
+{
+  "project_name": "servicemesh",
+  "generated_at": "2026-04-13T16:28:02.276194+00:00",
+  "quality_profile": "production",
+  "documentation_policy": {
+    "no_emoji": true,
+    "plain_markdown": true
+  },
+  "stack": [
+    "c"
+  ],
+  "file_count": 16,
+  "artifacts": {
+    "readme": "README.md",
+    "architecture_doc": "docs/ARCHITECTURE.md",
+    "operations_doc": "docs/OPERATIONS.md"
+  }
+}
